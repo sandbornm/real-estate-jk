@@ -1,0 +1,9 @@
+number street, city, state, zip
+
+number street, city, state, zip
+number street, city, state, zip
+number street, city, state, zip --> 12.34, 56.78
+
+airports
+shopping malls
+hospitals
