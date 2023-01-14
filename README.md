@@ -1,15 +1,11 @@
-### Overview
+## Set up conda environment
 
-This is a repo for basic real estate data scraping from the pyzillow API.
+- make sure conda is installed
+- clone this repo
+- cd into this repo `cd real-estate-jk`
+- run `conda env create --file=env.yaml` to create the conda env and install dependencies
+- run `conda activate re-study`. After running this, you should see '(re-study)' in the left side of the Git Bash prompt.
+- now the environment is set up with the software packages we need to run the code
 
-### Project 1
-
-We are collecting pricing data according to the 30 largest metros in the US. The search filter is for condos that are for sale with *at least* 2BR / 2 bath.
-
-### Project 2
-
-
-### How to Run Project
-
-1. The project assumes python3 >= 3.8 is installed on the target machine. It is suggested but not necessary to make a virtual environment to run the code, for example using the command `virtualenv ~/envs/env_name`. This keeps all of the python packages for this project in a single python environment.
-
+## Run code 
+`python map-viz/main.py` the result should be cities and lat/long values in a python dictionary printed to the terminal, as well as a map of the US States outlined in blue.
