@@ -1,0 +1,32 @@
+======== results for company: Company A ========
+total interferences: 256
+average distance between existing and construction sites: 1.5229413050175684 miles
+standard deviation of distance between existing and construction sites: 0.6267453887098224 miles
+city with most interferences: San Francisco
+city with least interferences: New York
+city with most units in progress: San Francisco
+city with least units in progress: New York
+
+
+
+======== results for company: Company B ========
+total interferences: 20
+average distance between existing and construction sites: 1.5127502867284146 miles
+standard deviation of distance between existing and construction sites: 0.7712367942836664 miles
+city with most interferences: Miami
+city with least interferences: New York
+city with most units in progress: Miami
+city with least units in progress: New York
+
+
+
+======== results for company: Company C ========
+total interferences: 37
+average distance between existing and construction sites: 1.7179011400984556 miles
+standard deviation of distance between existing and construction sites: 0.7362244662755614 miles
+city with most interferences: New York
+city with least interferences: Los Angeles
+city with most units in progress: New York
+city with least units in progress: Los Angeles
+
+
